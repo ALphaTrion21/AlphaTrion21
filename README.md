@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Oza</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
-(img align="right" alt="Coding" width="400" src="[[https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp](https://i.gifer.com/STRh.mp4)](https://i.gifer.com/STRh.gif)")
+(img align="right" alt="Coding" width="400" src="<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/STRh" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphatrion21&label=Profile%20views&color=0e75b6&style=flat" alt="alphatrion21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphatrion21" alt="alphatrion21" /></a> </p>
